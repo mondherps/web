@@ -5,4 +5,4 @@
     <allow-access-from domain="*" secure="false" />
     <site-control permitted-cross-domain-policies="all" />  
 
-</cross-domain-policy>
+</cross-domain-policy>   
